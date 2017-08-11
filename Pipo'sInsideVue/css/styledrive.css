@@ -21,7 +21,7 @@
   
 
 }
-@media all and (max-width: 1092px){
+@media all and (max-width: 992px){
   #uploaddiv{
   padding : 5% 10%;
   min-height : 20%;
@@ -84,13 +84,15 @@ header{
 
 .file{
   background-color: #fff;
-  width : 100%;
+  width : 85%;
   //height : 200px;
   //border : 1px solid black;
   //margin-left : 7%;
   margin-right : 8%;
   box-shadow: 1px 1px 12px #555;
   margin-top: 3%;
+  margin-left : 7%;
+  margin-right : 8%;
 
 
 }
@@ -216,6 +218,7 @@ footer{
   background-color : #863c8c;
 }
 .uploadbtn{
+  //text-align : center;
   color : #fff;
   background-color : #863c8c;
   width : 12%;
